@@ -1,0 +1,18 @@
+.question-style {
+    font-weight: bold;
+    color: orange;
+    font-size: 20px;
+}
+.answer-style {
+    font-weight: bold;
+    color: red;
+    font-size: 40px;
+}
+.pr{
+    background-color: pink;
+    padding: 10px;
+}
+.pic{
+    width: 150px;
+    height: 100px;
+}
